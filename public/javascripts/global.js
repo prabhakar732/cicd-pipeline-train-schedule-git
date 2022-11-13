@@ -6,6 +6,8 @@ $(document).ready(function() {
 
 });
 
+
+
 function populateTrains() {
   var trainsContent = '';
 
